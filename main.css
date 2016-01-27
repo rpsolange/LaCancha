@@ -1,0 +1,54 @@
+.uno{
+    background-color: #8CB27C;
+    width: 800px;
+    height: 450px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.dos{
+	background-color: #8CB27C;
+	border: 2px solid white;
+	width: 750px;
+	height: 400px;
+}
+.izquierda, .derecha{
+	height: 180px;
+	width: 120px;
+	background-color: #8CB27C;
+	border: 2px solid white;
+}
+.izquierda{
+	position: relative;
+	left: 628px;
+	top: 110px;
+}
+.derecha{
+	position: relative;
+	right: 2px;
+	bottom: 80px;
+}
+.circulo{
+	height: 200px;
+	width: 200px;
+	background-color: #8CB27C;
+	border: 2px solid white;
+	border-radius: 50%;
+	position: relative;
+	left: 275px;
+	bottom: 270px;
+}
+.bola1{
+	position: relative;
+	right: 170px;
+	top: 8px;
+}
+.bola2{
+	position: relative;
+	left: 400px;
+	bottom: 530px;
+}
+.bola3{
+	position: relative;
+	left: 600px;
+	bottom: 340px;
+}
